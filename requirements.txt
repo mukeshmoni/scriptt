@@ -1,0 +1,8 @@
+pyfiglet
+pyrogram
+asyncio
+configparser
+colorama
+telethon
+lolpython
+setuptools==66.0.0
